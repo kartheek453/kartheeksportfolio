@@ -18,8 +18,8 @@ Welcome to my portfolio! This repository showcases my skills, projects, and expe
 
 
 ### **Database Management:**
-- MySQL
-- MongoDB
+- SQL
+  
 
 ### **Version Control:**
 - Git
