@@ -1,31 +1,49 @@
-## Portfolio-Website
-Portfolio website build using HTML5, CSS3, JavaScript and jQuery.
+# My Portfolio
 
-<a href="https://jigarsable.netlify.app/" target="_blank">**Visit Now** 🚀</a>
+Welcome to my portfolio! This repository showcases my skills, projects, and experience as a full-stack web developer. Below you will find an overview of the technologies I've worked with and the projects I've completed.
 
+## **Skills**
 
-## 📌 Tech Stack
-[![HTML](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)](https://github.com/jigar-sable/Portfolio-Website/search?l=html)&nbsp;
-[![CSS](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)](https://github.com/jigar-sable/Portfolio-Website/search?l=css)&nbsp;
-[![JS](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://github.com/jigar-sable/Portfolio-Website/search?l=javascript)
-<img alt="jQuery" src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white"/>
+### **Frontend Development:**
+- HTML
+- CSS
+- JavaScript
+- Bootstrap
+- Flexbox
 
-### Extras : 
-Particle.js, Typed.js, Tilt.js, Scroll Reveal, Tawk.to, Font Awesome and JSON
-
-## 📌 Sneak Peek of Main Page 🙈 :
-![mockup720](https://user-images.githubusercontent.com/64949957/124947013-1f682080-e02d-11eb-977e-df3bbd4fa838.png)
-![ss](https://user-images.githubusercontent.com/64949957/159113640-d92665a8-f614-42b3-8456-66b97fc2e651.png)
+### **Backend Development:**
+- Python
 
 
-<h2>📬 Contact</h2>
 
 
-If you want to contact me, you can reach me through below handles.
+### **Database Management:**
+- MySQL
+- MongoDB
 
-&nbsp;&nbsp;<a href="https://www.linkedin.com/in/jigar-sable/"><img src="https://www.felberpr.com/wp-content/uploads/linkedin-logo.png" width="30"></img></a>
+### **Version Control:**
+- Git
+- GitHub
 
-© 2022 Jigar Sable
+### **Tools:**
+- Visual Studio Code
 
 
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
+
+
+## **Projects**
+
+### **1. Move-It (Product Moving Website)**
+- A responsive web app designed to help users move products from one place to another.
+- Built with **HTML**, **CSS**, **Bootstrap**, and **JavaScript**.
+
+### **2. Weather App**
+- A web application that shows real-time weather data using the **OpenWeather API**.
+- Built with **HTML**, **CSS**, **JavaScript**, and **API Integration**.
+
+### **3. Task Manager App**
+- A task management application with features like notifications, task prioritization, and reminders.
+- Built with **HTML**, **CSS**, **JavaScript**, and **Firebase** for backend services.
+
+## **How to View My Portfolio**
+1. Clone this repository:
